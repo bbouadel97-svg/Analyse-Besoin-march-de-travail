@@ -1,0 +1,15 @@
+-- Objectif : Afficher l'évolution du nombre total de projets de recrutement par Région sur toutes les années disponibles.
+SELECT
+    T3.nom_region,
+    T1.annee,
+    SUM(T1.projets_totaux) AS Demande_Totale_Regionale
+FROM
+    ANALYSE T1
+INNER JOIN
+    DEPARTEMENT T2 ON T1.code_departement_fk = T2.code_departement
+INNER JOIN
+    REGION T3 ON T2.code_region_fk = T3.code_region
+GROUP BY
+    T3.nom_region, T1.annee
+ORDER BY
+    T3.nom_region, T1.annee DESC;
