@@ -1,0 +1,15 @@
+C:\Users\User\Portfolio_Nemsi\bin\Debug\net10.0\Portfolio_Nemsi.exe
+C:\Users\User\Portfolio_Nemsi\bin\Debug\net10.0\Portfolio_Nemsi.deps.json
+C:\Users\User\Portfolio_Nemsi\bin\Debug\net10.0\Portfolio_Nemsi.runtimeconfig.json
+C:\Users\User\Portfolio_Nemsi\bin\Debug\net10.0\Portfolio_Nemsi.dll
+C:\Users\User\Portfolio_Nemsi\bin\Debug\net10.0\Portfolio_Nemsi.pdb
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.AssemblyInfoInputs.cache
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.AssemblyInfo.cs
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.csproj.CoreCompileInputs.cache
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.sourcelink.json
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.dll
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\refint\Portfolio_Nemsi.dll
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.pdb
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\Portfolio_Nemsi.genruntimeconfig.cache
+C:\Users\User\Portfolio_Nemsi\obj\Debug\net10.0\ref\Portfolio_Nemsi.dll

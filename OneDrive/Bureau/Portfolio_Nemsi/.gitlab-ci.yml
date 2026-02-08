@@ -1,0 +1,24 @@
+stages:
+  - deploy
+
+pages:
+  stage: deploy
+  image: alpine:latest
+  script:
+    - mkdir -p public
+    - cp -r *.html public/ 2>/dev/null || true
+    - cp -r *.css public/ 2>/dev/null || true
+    - cp -r *.js public/ 2>/dev/null || true
+    - cp -r *.png public/ 2>/dev/null || true
+    - cp -r *.jpg public/ 2>/dev/null || true
+    - cp -r *.jpeg public/ 2>/dev/null || true
+    - cp -r *.svg public/ 2>/dev/null || true
+    - cp -r *.webp public/ 2>/dev/null || true
+    - cp -r *.gif public/ 2>/dev/null || true
+    - cp -r *.ico public/ 2>/dev/null || true
+    - cp -r Portfolio_Nemsi public/ 2>/dev/null || true
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
