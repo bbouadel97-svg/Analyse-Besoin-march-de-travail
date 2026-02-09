@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Bataille.BLL/Bataille.BLL.csproj" />
+  <Project Path="Bataille.ConsoleApp/Bataille.ConsoleApp.csproj" />
+</Solution>

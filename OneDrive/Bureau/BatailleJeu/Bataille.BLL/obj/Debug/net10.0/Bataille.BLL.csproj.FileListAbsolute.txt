@@ -1,0 +1,12 @@
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\bin\Debug\net10.0\Bataille.BLL.deps.json
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\bin\Debug\net10.0\Bataille.BLL.dll
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\bin\Debug\net10.0\Bataille.BLL.pdb
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.AssemblyInfo.cs
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.sourcelink.json
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.dll
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\refint\Bataille.BLL.dll
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\Bataille.BLL.pdb
+C:\Users\User\OneDrive\Bureau\BatailleJeu\Bataille.BLL\obj\Debug\net10.0\ref\Bataille.BLL.dll
